@@ -1,0 +1,4 @@
+airline,price,duration_hours,ai_score
+Air India,5000,2.5,0.85
+SpiceJet,4500,2.0,0.9
+IndiGo,5500,3.0,0.8
