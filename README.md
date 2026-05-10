@@ -57,4 +57,31 @@ verify_excel.py
 
 #Project Screenshots
 ##Price Distribution Chart
--
+-![Price Distribution](visualization/charts/price_distribution.png)
+##Airline Price Comparison
+![Airline Prices](visualization/charts/airline_prices.png)
+##Duration vs Price Analysis
+![DurationAnalysis](visualization/charts/duration_vs_price.png)
+
+#Run the project
+'''bash
+python main.py
+
+#AI Logic Used
+The recommendation engine uses a custom scoring algorithm based on :
+-Lower Ticket Prices.
+-Shorter Flight Durations.
+-Airline Quality Weighting.
+The system normalizes flight pricing data and generates intelligent recommendations.
+
+#Future Improvements
+-Live ticket booking integration.
+-MAchine Learning price prediction.
+-Interactive dashboard.
+-Multi-city route optimization.
+-Real-time cheapest flight alerts.
+
+#Developer
+Built by Vihan Anand
+Focused on AI systems, data intelligence, and real-world python projects.
+
